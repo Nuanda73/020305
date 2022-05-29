@@ -80,7 +80,7 @@ int main(){
     f(d21);
     f(d22);
 
-    std::cout << "\nPointeres megoldással:\n";
+    cout << "\nPointeres megoldással:\n";
     f2(&d21);
     f2(&d22);
 

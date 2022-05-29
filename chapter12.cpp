@@ -4,8 +4,8 @@
 g++ -w -Wall -std=c++11 GUI/Graph.cpp GUI/Window.cpp GUI/GUI.cpp GUI/Simple_window.cpp chapter12.cpp `fltk-config --ldflags --use-images` -o ch12
 */
 
-#include "./GUI/Simple_window.h"
-#include "./GUI/Graph.h"
+#include "GUI/Simple_window.h"
+#include "GUI/Graph.h"
 
 #include <string>
 #include <iostream>

@@ -1,0 +1,1 @@
+//létrehosni egy sloping sinus függvényt

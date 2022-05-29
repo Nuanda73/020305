@@ -1,0 +1,1 @@
+//A "t.c" átírni úgy, hogy ne  számokkal titkosítson hanem az abc kis betűivel illetve a titkosítási kulcs mérete ne 8 hanem 5 legyen
